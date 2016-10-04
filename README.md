@@ -14,12 +14,20 @@ to support other MBTiles formats.
 
 You can modify the `city_extracts.csv` and `country_extracts.csv` directly in GitHub and create a PR.
 
+### Download Planet MBTiles
+
+Download the entire planet and put it into `data`.
+
+```bash
+wget -O ./data/planet.mbtiles https://osm2vectortiles-downloads.os.zhdk.cloud.switch.ch/v2.0/planet_2016-06-20_3d4cb571d3d0d828d230aac185281e97_z0-z14.mbtiles
+```
+
 ### Python
 
 You can use the `create_extracts.py` Python script yourself to generate an extract and optionally upload it to S3.
 
 ```bash
-# Create extracts limited by a bounding box specified in the TSV file
+# Create extracts limited by a bounding box specified in the CSV file
 python create_extracts.py bbox planet.mbtiles city_extracts.csv
 ```
 
@@ -31,7 +39,7 @@ a **full** `planet.mbtiles` ready in the `export` folder.
 Now **merge-jobs** will merge the MBTiles files into `./export/planet.mbtiles`.
 **create-extracts** will use `tilelive-copy` to cut out extracts for countries and cities.
 To produce the extracts for all cities and countries this can take up to several days.
-The results will be first be stored in the `export` folder and then uploaded
+The results will be first be stored in the `data` folder and then uploaded
 to a S3 if configured.
 
 ```
