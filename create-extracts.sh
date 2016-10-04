@@ -3,8 +3,8 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-readonly CITIES_TSV=${CITIES_TSV:-"city_extracts.tsv"}
-readonly COUNTRIES_TSV=${COUNTRIES_TSV:-"country_extracts.tsv"}
+readonly CITIES_TSV=${CITIES_TSV:-"city_extracts.csv"}
+readonly COUNTRIES_TSV=${COUNTRIES_TSV:-"country_extracts.csv"}
 readonly WORLD_MBTILES=${WORLD_MBTILES:-"world.mbtiles"}
 readonly EXTRACT_DIR=$(dirname "$WORLD_MBTILES")
 readonly PATCH_SRC="$EXTRACT_DIR/world_z0-z5.mbtiles"

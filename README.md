@@ -12,7 +12,7 @@ to support other MBTiles formats.
 
 ### Submit new Extract
 
-You can modify the `city_extracts.tsv` and `country_extracts.tsv` directly in GitHub and create a PR.
+You can modify the `city_extracts.csv` and `country_extracts.csv` directly in GitHub and create a PR.
 
 ### Python
 
@@ -20,7 +20,7 @@ You can use the `create_extracts.py` Python script yourself to generate an extra
 
 ```bash
 # Create extracts limited by a bounding box specified in the TSV file
-python create_extracts.py bbox planet.mbtiles city_extracts.tsv
+python create_extracts.py bbox planet.mbtiles city_extracts.csv
 ```
 
 ### Docker
