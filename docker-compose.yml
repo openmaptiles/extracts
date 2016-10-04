@@ -1,0 +1,9 @@
+version: '2'
+services:
+  create-extracts:
+    image: "osm2vectortiles/create-extracts"
+    env_file: .env
+    volumes:
+     - ./data:/export
+volumes:
+  rabbitdata:
