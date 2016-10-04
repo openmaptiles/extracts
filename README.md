@@ -34,9 +34,8 @@ python create_extracts.py bbox planet.mbtiles city_extracts.csv
 ### Docker
 
 To use **create-extracts** inside the Docker Compose workflow you need to have
-a **full** `planet.mbtiles` ready in the `export` folder.
+a **full** `planet.mbtiles` ready in the `data` folder.
 
-Now **merge-jobs** will merge the MBTiles files into `./export/planet.mbtiles`.
 **create-extracts** will use `tilelive-copy` to cut out extracts for countries and cities.
 To produce the extracts for all cities and countries this can take up to several days.
 The results will be first be stored in the `data` folder and then uploaded
