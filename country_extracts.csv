@@ -1,218 +1,218 @@
-extract,country,city,left,bottom,right,top,id
-afghanistan,Afghanistan,,60.403889,29.288333,74.989862,38.5899217,cbbb9c2335db283c7c06d8fb1ae404de
-albania,Albania,,19.0246095,39.5448625,21.1574335,42.7611669,b75a95d9bc140e4743c2bfb19159e865
-algeria,Algeria,,-8.7689089,18.868147,12.097337,37.3962055,632cf329385764453b20818c82e0b909
-andorra,Andorra,,1.3135781,42.3288238,1.8863837,42.7559357,6ea90bd00c5b0111b5c5bd77e1a01be7
-angola,Angola,,11.3609793,-18.1389449,24.18212,-4.2888889,feaa4637379779b552db065719280513
-anguilla,Anguilla,,-63.7391991,17.9609378,-62.6125448,18.8951194,6c49a870affe1ef1f62b19f4f84a2b27
-argentina,Argentina,,-73.6603073,-55.285076,-53.5374514,-21.6811679,e296dd2078f67b814174b9d879f28478
-armenia,Armenia,,43.3471395,38.7404775,46.7333087,41.400712,3872c8c2d146b03bc4a162268c8f288a
-australia,Australia,,112.2363,-44.3945,155.2172,-9.0882,ca9dc854082ec9252fe338a3531428b0
-austria,Austria,,9.4307487,46.2722761,17.260776,49.1205264,94b17bc136c66d4e9c605db83bbe4752
-azerbaijan,Azerbaijan,,44.6633701,38.2929551,51.1090302,42.0502947,f8197cbf963780cbe30e08a095478dfe
-bahrain,Bahrain,,50.1697989,25.435,51.0233693,26.7872444,21f8ad4f7652ab39a53373012d432c03
-bangladesh,Bangladesh,,87.9075306,20.2756582,92.7804979,26.7382534,8571f66528a5cc8fa06249abd16cb2c2
-barbados,Barbados,,-59.9562114,12.745,-59.1147174,13.635,4fee368efa7638dd46086659e5387bc2
-anguilla,Belarus,,23.0783386,51.1575982,32.8627809,56.2722235,e9fece9152f42d45c2442ce33bcb0215
-belgium,Belgium,,2.2889137,49.3969821,6.508097,51.6516667,73ba2411007c63113da52bcf042c0ea1
-belize,Belize,,-89.3261456,15.7857286,-87.2098493,18.596001,7bb7ce890ce94e3cb27de5aab13585b9
-benin,Benin,,0.676667,5.9398696,3.943343,12.5065612,a7ae4249a4909b8235092dd1fe7a71c7
-bermuda,Bermuda,,-65.2232221,31.9469651,-64.3109841,32.6913693,48811f6277462e1a13af4c6d568cbcb0
-bhutan,Bhutan,,88.6464724,26.602016,92.2252321,28.346987,2e94d2b3fdd80b2dc7cd0c540c034fc5
-bolivia,Bolivia,,-69.7450072,-23.0005473,-57.3529999,-9.5689437,f1fe9c7ba83f8b5f9a144b4faf05228e
-bosnia_and_herzegovina,Bosnia and Herzegovina,,15.6287433,42.4543231,19.7217086,45.3764771,6e00379640fde1bf62b0863a0704d8d0
-botswana,Botswana,,19.8986474,-27.0059668,29.475304,-17.6781369,4c701c9192b2132d2fad42952ba446f8
-brazil,Brazil,,-74.0830624,-33.9689055,-28.5341163,5.3842873,84d8cb8b827869bc429f5dd3764dae27
-british_indian_ocean_territory,British Indian Ocean Territory,,70.936504,-7.7454078,72.8020157,-4.9370659,5e5fec38a67920f1d5767bce83caa125
-british_virgin_islands,British Virgin Islands,,-65.055961,18.0055311,-63.9597293,19.0503802,28252559b31a5a86e07a79f0c05e8212
-brunei,Brunei,,113.976123,3.902508,115.4635623,5.2011857,178e4f83f73a4548f7f9c858b72528bc
-bulgaria,Bulgaria,,22.257337,41.1353929,28.9875409,44.3162214,06ae8e18c55286513cacc3f76fede4c2
-burkina_faso,Burkina Faso,,-5.6175099,9.293889,2.50261,15.184,4ee655cf61072a6a9392003d1f256a8a
-burundi,Burundi,,28.9007401,-4.5693154,30.9495759,-2.2096795,2ea8ab409db50fa70372cb55c074085a
-cote_d_ivoire,Cote d'Ivoire,,-8.7017249,4.0621205,-2.3930309,10.840015,638a179e83aaeab5bfe174ad7f310929
-cambodia,Cambodia,,102.2338282,9.3230459,107.7276788,14.7902471,8803bf3f73fa98c22351b5328e21d6e0
-cameroon,Cameroon,,8.2822176,1.5546659,16.2921476,13.183333,439d152b848dae6f06cecbdba80b7814
-canada,Canada,,-141.1027499,41.5765556,-52.223198,83.4362128,3b1a0e6de4cf7badd570029589c3bf1d
-cape_verde,Cape Verde,,-25.6731072,14.5066229,-22.3547751,17.507117,833b6af3bf1f4c39f1a8727c61e3e532
-cayman_islands,Cayman Islands,,-81.7313747,18.9620619,-79.4110953,20.0573759,36349b68d5ac92fcec5bd9d065594e22
-central_african_republic,Central African Republic,,14.3155426,2.1156553,27.5540764,11.101389,6f472c43567288a12d6e2d9a468c4889
-chad,Chad,,13.37348,7.34107,24.1,23.5975,b092b2d1bf1eafed766887c4208753c9
-chile,Chile,,-109.7795788,-56.8249999,-65.9734088,-17.3983997,fcfdce30b602cf202c52aca43e005357
-china,China,,73.3997347,14.8082548,134.8754563,53.6608154,3936ff1cbd50d5fb805893f6fe2690ba
-colombia,Colombia,,-82.1000001,-4.3316871,-66.7511906,16.2219145,4a4d13c1272ffae22d6996ed3e0b5d07
-comoros,Comoros,,42.925305,-12.7209999,44.8451922,-11.0649999,973b02280422a44f1b150ef0aa3fd012
-congo-brazzaville,Congo-Brazzaville,,10.9048205,-5.2358572,18.743611,3.813056,619fc14764969e25f0dbd5642cbc747f
-congo-kinshasa,Congo-Kinshasa,,11.9374291,-13.5590349,31.4056758,5.4920026,dab4ec12995b65219c7c5e19b76d4498
-cook_islands,Cook Islands,,-166.1856467,-22.2580699,-157.0154965,-8.6168791,72292d63526151d3c3341923f8e137d4
-costa_rica,Costa Rica,,-87.3722646,5.2329698,-82.4060207,11.3196781,4577e53fda48fc52f15b503e3ad2ca63
-croatia,Croatia,,13.101983,42.0748212,19.5470842,46.655029,531609e1e3bf2fb9e2101d86d68f9ea2
-cuba,Cuba,,-85.2679701,19.5275294,-73.8190003,23.5816972,70f964de7d9daa66edcc0f4d51bfb5f3
-cyprus,Cyprus,,31.9227581,34.3383706,34.9553182,36.013252,70d30211c5b53dca9fb68ce3c4a3438a
-czech_republic,Czech Republic,,11.9905901,48.4518144,18.959216,51.1557036,6f8f53dc42653d5c30ce417c17f3b858
-denmark,Denmark,,7.6153255,54.3516667,15.6530641,58.0524297,07f6c803e2188129751e0721c11cee5c
-djibouti,Djibouti,,41.6713139,10.8149547,43.7579046,12.8923081,325ad0bad24bdc4a49148e7f61956788
-dominica,Dominica,,-61.7869183,14.9074207,-60.9329894,15.8872222,abec77f282bc3cb16a2024dc3850cd76
-dominican_republic,Dominican Republic,,-72.1657709,17.166222,-68.0148509,20.234528,6d8c20a50571e85ab9c14faf8e641497
-east_timor,East Timor,,123.9415703,-9.6642774,127.6335392,-7.9895458,26d4df7dd4e42ebc94a83da3648ecf19
-ecuador,Ecuador,,-92.7828789,-5.1159313,-75.0925039,2.4495499,a515969bafe37f7b77f69fc47c28343c
-egypt,Egypt,,24.606389,21.8999975,37.2153517,31.9330854,a458d10c97baa52163dd63c2dc0ee33e
-el_salvador,El Salvador,,-90.2602721,12.9262117,-87.4498059,14.551667,2f3351012fc904f6d54461798c82160c
-equatorial_guinea,Equatorial Guinea,,5.3172943,-1.7732195,11.4598628,4.089,fc51eacc61f4bd9f5f46fa21c99dfd93
-eritrea,Eritrea,,36.343333,12.2548219,43.4001714,18.1479356,69a456d91676a696becf8a3d0e628848
-estonia,Estonia,,21.2826069,57.4093124,28.3100175,60.0383754,78580369fc07cf3aa6be737424ac8745
-ethiopia,Ethiopia,,32.897734,3.297448,48.0823797,14.9944684,e518dc2bab045a83993069bc5c6ca828
-falkland_islands,Falkland Islands,,-61.8726771,-53.2186765,-57.2662366,-50.6973006,9b9672a7906c1545afdb20667cb43672
-faroe_islands,Faroe Islands,,-7.8983833,61.1880991,-6.0413261,62.5476162,9b782e2ebc60b9c387a304671d0faa1a
-federated_states_of_micronesia,Federated States of Micronesia,,137.1234512,0.727,163.3364054,10.391,facdb71c6c62bdd0b16c3c5947fffede
-fiji,Fiji,,-180.0999999,-21.3286516,180.1,-12.1613865,8a8866fd8cf8b74bc315655560cf2c17
-finland,Finland,,18.9832098,59.3541578,31.6867044,70.1922939,9cce61c9f858b395d07e59751c124b07
-france,France,,-5.4662,41.2632,9.8679,51.2684,fae95809a97487e3f7e4dd61fff6c3c8
-gabon,Gabon,,8.4002246,-4.201226,14.639444,2.4182171,92255deb2a472338eb1ff8331d447fe3
-georgia,Georgia,,39.7844803,40.9552922,46.8365373,43.6864294,4fbff5ec06d73ae0ebbed3c8f1aaf4b7
-germany,Germany,,5.7663153,47.1701114,15.1419319,55.199161,4f387f897780692472d6a4bae73074da
-ghana,Ghana,,-3.3607859,4.4392525,1.3732942,11.2748562,ed86c6c0e2b597fbc1bb941a880a4bec
-greece,Greece,,19.1477876,34.6006096,29.8296986,41.8488862,3ae8f300cfa6c02ede44c70c01e30f6c
-greenland,Greenland,,-74.394555,59.4209376,-9.4914437,83.8491212,07f91ee6c6dfb1fd18fa6f9369fa2b43
-grenada,Grenada,,-62.1065867,11.686,-61.0732142,12.6966532,920869c6c2f1e163b671d3185ff03ade
-guatemala,Guatemala,,-92.4105241,13.5278662,-88.0648019,17.9166179,5f3610eb13edd380a2badf5a86ac45ae
-guernsey,Guernsey,,-3.1204014,49.1208333,-1.9351849,50.0416066,494885a956d4d731373dfca44f4694e1
-guinea-bissau,Guinea-Bissau,,-16.9945229,10.5514215,-13.5348776,12.7862384,c996e28da9b3e7605f43146ee97ce3d8
-guinea,Guinea,,-15.3470907,7.0906045,-7.5381992,12.77563,59258091107566b579ed6da68bc86999
-guyana,Guyana,,-61.5149049,1.0710017,-56.3689542,8.7038842,0bff08db9103e73f4a384e9ae52178c1
-haiti,Haiti,,-74.7575356,17.8099291,-71.5221296,20.3181368,221f90228d10b6eb921e0010d6d1647a
-honduras,Honduras,,-89.4519439,12.879722,-82.0816379,17.719526,b5cd4a7764cc8168e7c20c45da1bd2e5
-hungary,Hungary,,16.0138867,45.637128,22.9974573,48.685257,288a2bbedc8ba417419606959c0e8c90
-iceland,Iceland,,-25.1135068,62.9859177,-12.7046161,67.453,16c2cae438435e1b55f9147db8f237e6
-india,India,,68.0113787,6.4546079,97.495561,35.7745457,536b3dcd7f401e229cc3c97c11c40aa1
-indonesia,Indonesia,,94.6717124,-11.3085668,141.1194444,6.3744496,4a1e0b69412cf44d7a567176a8b9cfff
-iran,Iran,,43.9318908,24.7465103,63.4332704,39.8816502,c67a0abd3b0ed095b1c95286e61f7d08
-iraq,Iraq,,38.6936612,28.9612087,48.9412702,37.480932,da622cca422deb0fa50b26dc5f36af0e
-ireland,Ireland,,-11.1133787,51.122,-5.5582362,55.736,7a9d353e6d19f425dc7996a1e5fe3b1d
-isle_of_man,Isle of Man,,-5.2707284,53.745,-3.865406,54.6534288,c73b0256496d359171b9763f60af3865
-israel,Israel,,34.1674994,29.3533796,35.9950234,33.4356317,c1fddf2a0bd8e1a3743b5bb9d64820ce
-italy,Italy,,6.5272658,35.1889616,18.8844746,47.1921462,596f63b9c3f5d220cfacf478785e72f4
-jamaica,Jamaica,,-78.6782365,16.4899443,-75.6541142,18.8256394,70eb1423fd83cbeaf934f96b0d4038b7
-japan,Japan,,122.6141754,20.1145811,154.305541,45.8112046,f7399dd0ac42fab590f18a3c0b963b8a
-jersey,Jersey,,-2.6591666,48.7721667,-1.7333332,49.5605,968f8f357073a0ceb127fc607e27d223
-jordan,Jordan,,34.7844372,29.083401,39.4012981,33.4751558,70a8e72ef335aee29b3a3996cbc50fa4
-kazakhstan,Kazakhstan,,46.392161,40.4686476,87.4156316,55.5804002,c675a73cf36497303a4a18787eed3ceb
-kenya,Kenya,,33.8098987,-4.9995203,41.999578,4.72,60031c31ac3674edfa99af02e7078ceb
-kiribati,Kiribati,,-179.1646,-7.0517,-164.1645,7.9484,d36785ec2c2ba488a6ef3ba0892263d0
-kuwait,Kuwait,,46.4526837,28.4138452,49.1046809,30.2038082,388013bd03dbd1ba80a61319ddc6298e
-kyrgyzstan,Kyrgyzstan,,69.1649523,39.0728437,80.3295793,43.3667971,7fdf6277bc7e056cf5ebbc76eba7b01b
-laos,Laos,,99.9843247,13.8096752,107.7349989,22.602872,c4e3f7f4db26df9b87f62e557c9f406a
-latvia,Latvia,,20.5715407,55.5746671,28.3414904,58.1855688,c51d875cfeb989943aa9248967a59f54
-lebanon,Lebanon,,34.7825667,32.9479858,36.725,34.7923543,49629336578fd8fa0c3401591afdb8a5
-lesotho,Lesotho,,26.91123,-30.7755749,29.5557099,-28.4705972,95faa61e01957a484573b7360a252af6
-liberia,Liberia,,-11.7080763,4.0555907,-7.2673229,8.6519717,2e9b350146666562f592696e80716d42
-libya,Libya,,9.291081,19.4008138,25.4541226,33.4512055,9756ad61be4cdc6d25faf3f267303ddf
-liechtenstein,Liechtenstein,,9.3716736,46.9484291,9.7357143,47.370581,ddf2a5e907bd993ee8010f60ec1f1240
-lithuania,Lithuania,,20.553783,53.7967893,26.9355198,56.5504213,7f21901c994cd3119a52802724be63b7
-luxemburg,Luxemburg,,5.6357006,49.3478539,6.6312481,50.2827712,7f49433e42c9e5953857f63f7ad6de8a
-macedonia,Macedonia,,20.3532236,40.7545226,23.134051,42.4735359,8746bcb87bfb98792a061e8dace5ade8
-madagascar,Madagascar,,42.8729705,-25.9054593,50.7983545,-11.6490749,4dc8e22e7018c9c4454e8255ad0b174f
-malawi,Malawi,,32.5703616,-17.2295216,36.0185731,-9.268326,5ecc042c0d39d3108d02f90c8536bc1e
-malaysia,Malaysia,,98.8372144,0.753821,119.5390876,7.6111989,53229c1196b5794d26e778e41d23fcc3
-maldives,Maldives,,72.2554187,-1.0074934,74.0700962,7.4106246,04deed426aabb907aa3e3f2a4daafae6
-mali,Mali,,-12.3407704,10.047811,4.3673828,25.101084,f9bed9d37c0ea7ae9ef8d5e937d102c9
-malta,Malta,,13.8324226,35.5029696,14.9267966,36.3852706,4e1b9ae3030c0c957d03bed3f69e16b5
-marshall_islands,Marshall Islands,,160.494934,4.274,172.4737007,14.973,eb75c37713e799a149a2ac2103195433
-mauritania,Mauritania,,-17.1684993,14.6206601,-4.7333343,27.414942,c791dcd0bc9c2b5355337debe30ba269
-mauritius,Mauritius,,56.2825151,-20.8249999,63.8151319,-10.0379999,1bbf58a7c44aa9e62ea96509afc3826d
-mexico,Mexico,,-118.6991899,14.2886243,-86.3932659,32.8186553,e814dbebce2c10a212cf232ae23b9945
-moldova,Moldova,,26.5162823,45.3667022,30.2635137,48.5918695,fe4764e7aa99df781c3e39d170863f6c
-monaco,Monaco,,7.3090279,43.416333,7.633167,43.8519311,67a0c43818c5ce96d122c7780a33a72b
-mongolia,Mongolia,,87.63762,41.4804176,120.031949,52.2496,5827797f99734948a1ed0d8d84631438
-montenegro,Montenegro,,18.3334249,41.6495999,20.4638002,43.658844,e8154f6a3c5caf3be62bd1fe71658e42
-montserrat,Montserrat,,-62.5506669,16.375,-61.8353817,17.1152978,79725f58a5b5ae9926627a862e4cc7dd
-morocco,Morocco,,-17.4479238,20.5144392,-0.8984289,36.1027875,7bfa362e286611bf59ebaae4380fdc62
-mozambique,Mozambique,,30.1131759,-27.0209426,41.1545908,-10.2252148,2d33545c5dd241fa01e075ff4dff1c84
-myanmar,Myanmar,,92.0719423,9.4375,101.2700796,28.647835,3bc9b29ce1b4c8a982c9e0a5f6815407
-namibia,Namibia,,11.4280384,-29.0694499,25.3617476,-16.8634854,c7e88c3fb906349bffc0cba19b2e3c5d
-nauru,Nauru,,166.6099864,-0.8529999,167.2597301,-0.2029999,c52be73877ae6cf8b55f2f88776c3d70
-nepal,Nepal,,79.9586109,26.2477172,88.3015257,30.546945,2e721361cf1d4b3475d6ecfd0e03542f
-new_zealand,New Zealand,,165.8236,-48.4206,179.5842,-33.5349,02eceff9fb87d99be45e58ac6f246dd3
-nicaragua,Nicaragua,,-87.933972,10.6084923,-82.5227022,15.1331183,5140987bc271c579eec55953725fcea6
-niger,Niger,,0.0689653,11.593756,16.096667,23.617178,2f36d1b29fec6c2e0819984be467b2e6
-nigeria,Nigeria,,2.576932,3.9690959,14.777982,13.985645,096e9b76284d7aaa7f4e929055e63db8
-niue,Niue,,-170.2595028,-19.4548664,-169.4647228,-18.6534558,0632f96aec1dac8d4076552a978a889f
-north_korea,North Korea,,123.9913902,37.5279512,131.024647,43.1089642,997ae1617ef956f06dfe79fc44b3d5fb
-norway,Norway,,-9.7848145,-54.7539999,34.7891253,81.128076,348b52e025b574d3b239d5774e025cc9
-oman,Oman,,51.9,16.3649608,60.154577,26.8026737,a2d0b2c19415e820da9ff1573dec1126
-pakistan,Pakistan,,60.766944,23.4393916,77.2203914,37.184107,bfe61459cea44481476ddfb272a43e2e
-palau,Palau,,130.9685462,2.648,134.8714735,8.322,7cbe6d9bdcc0f048f320524566e9bfe8
-palestine,Palestine,,33.9689732,31.1201289,35.6734946,32.6521479,a6534db7cecde7b044ba5f0f9496fb2a
-panama,Panama,,-83.1517244,6.9338679,-77.0393778,9.9701757,936642a4c32c6321b2cbe43ba6461fce
-papua_new_guinea,Papua New Guinea,,140.7416553,-11.9555738,159.792724,-0.4573575,4c4a80cc84261e1d6e33e8b72f168db5
-paraguay,Paraguay,,-62.7442035,-27.7069156,-54.1579999,-19.1876463,93675304ada6c2c7ce340c9c38fe5aa6
-peru,Peru,,-84.7732789,-20.2984471,-68.5519905,0.0607183,1305e8f78b3255979498a5cbe35586f4
-philippines,Philippines,,113.9783252,4.1158064,126.9072562,21.4217806,9b6ee7922c7c8d700adf8520a0ca6024
-pitcairn_islands,Pitcairn Islands,,-130.9049861,-25.2306735,-124.6175339,-23.7655768,c15451a6d54680e9d479f4947e4aa748
-poland,Poland,,14.0229707,48.9020468,24.245783,55.1336963,bf51d3d0aecbdecb6b3f1fd4522f210f
-portugal,Portugal,,-31.6575302,29.7288021,-6.0891591,42.2543112,6021ee49ab4302c4448ee9504c60cc84
-qatar,Qatar,,50.4675,24.3707534,52.738011,26.4830212,e653ce3a48272d340b602c2b6aed3322
-taiwan,Taiwan,,114.2521088,10.2706406,122.397,26.5015754,568c908fee08c6879f4a0547aa59a988
-republic_of_kosovo,Republic of Kosovo,,19.9185549,41.7554981,21.8995285,43.3691934,9049df22dcf01ebcb43c97d0f46b9269
-romania,Romania,,20.1619773,43.518682,30.1454257,48.3653964,25730d8ba832bbe665b53f1cc3cc43a1
-russian_federation,Russian Federation,,-180.0999999,41.0858711,180.1,82.1586232,00c9ea8843fe6511eb2660b58492e820
-rwanda,Rwanda,,28.7617546,-2.9389803,30.9990738,-0.9474509,cc96f9284543e5c5cc9e68b882b4b5c6
-sao_tome_and_principe,Sao Tome and Principe,,6.160642,-0.3135136,7.7704783,2.0257601,04e84ba00986fccaedd1470b99a95dbc
-sahrawi_arab_democratic_republic,Sahrawi Arab Democratic Republic,,-15.1405655,21.2370952,-8.5663889,27.7666834,92f623bb1e4e11dd12c2208021a46194
-saint_helena_ascension_and_tristan_da_cunha,Saint Helena/Ascension and Tristan da Cunha,,-5.79,-16.04,-5.63,-15.9,7cb8d08c4436e59e1341e780e73b7b09
-saint_kitts_and_nevis,Saint Kitts and Nevis,,-63.1511289,16.795,-62.2303518,17.7158146,4820880cc936812a15480a5ad2ac191e
-saint_lucia,Saint Lucia,,-61.3853866,13.408,-60.5669362,14.3725,15b2ff140f486c688984c7ded3855554
-saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines,,-61.765747,12.4166548,-60.8094145,13.683,efcadb9025692b9eb3141ad451bea9a5
-samoa,Samoa,,-173.1091863,-14.3770915,-171.0929228,-13.1381891,c2ec504e0507f01e3b636b7db7e7823d
-san_marino,San Marino,,12.3033246,43.7937002,12.6160665,44.092093,e93c81c766c0702e814d92ff3e1f6f7f
-saudi_arabia,Saudi Arabia,,34.3571718,16.19,55.7666985,32.3305891,a57fd9515e075ed2bc98c4599d4d2571
-senegal,Senegal,,-17.8862418,12.1372838,-11.2458995,16.7919959,c12392579df0b468ed03b222e23695db
-serbia,Serbia,,18.71403,42.1357356,23.106309,46.2900608,e781325f115508dcaea69dce616768dd
-seychelles,Seychelles,,45.8988759,-10.5649257,56.5979396,-3.4119999,df438de71d6880ebc88af3bfee8cf19d
-sierra_leone,Sierra Leone,,-13.6003388,6.655,-10.1716829,10.1000481,0a63566356f55284b2026ef670c228b7
-singapore,Singapore,,103.4666667,1.0303611,104.6706735,1.6130449,5eccb1335e09bde54884deaac835637e
-slovakia,Slovakia,,16.7331891,47.6314286,22.6657096,49.7138162,1585f177be30ad99d91593ae1aed575a
-slovenia,Slovenia,,13.2754696,45.3214242,16.6967702,46.9766816,5ffed2a3af44826a2d2f21cc3489bbbb
-solomon_islands,Solomon Islands,,155.2190556,-13.3424297,170.4964667,-4.7108499,d05304e35e7769b6f2bc8325c5e0bc17
-somalia,Somalia,,40.8864985,-1.9031968,51.7177696,12.2889121,83034e9d3c23a438bd766751489c21b0
-south_africa,South Africa,,16.2335213,-47.2788334,38.3898954,-22.02503,e1bddfb148ae251bdb586e162336a670
-south_georgia_and_the_south_sandwich_islands,South Georgia and the South Sandwich Islands,,-42.2349052,-59.7839999,-25.7468302,-53.3531685,459c2b475467b96c2a4f3b2c0d4342cd
-south_korea,South Korea,,124.254847,32.77788,132.2483256,38.7234602,3f52888a8fcea1f9f3591d815ceea4e1
-south_sudan,South Sudan,,23.347778,3.38898,36.048997,12.336389,fa35cdb256d5d8eec45573649b89a640
-spain,Spain,,-9.9123,35.892,4.5919,43.9934,d01080e779e1af31c3d92506c0935e67
-sri_lanka,Sri Lanka,,79.2741141,5.619,82.1810141,10.135,6bf678f3b9e46d576da2a3224b594aee
-sudan,Sudan,,21.7145046,9.247221,39.1576252,22.324918,23d43bfdcbb232c53a8490ba5251bc92
-suriname,Suriname,,-58.1708329,1.7312802,-53.7433357,6.325,c55769bb6b62bef5b8a723e201677cbd
-swaziland,Swaziland,,30.6908,-27.41752,32.2349923,-25.6187599,18cd67884fabd88951e1d08a9bca13f1
-sweden,Sweden,,10.4920778,55.0331192,24.2776819,69.1599699,a8e70d48bef979c80b7196981b1a1a23
-switzerland,Switzerland,,5.8559113,45.717995,10.5922941,47.9084648,553ad2ff4e441b6f69934fcc15f63d6e
-syria,Syria,,35.3714427,32.211354,42.4745687,37.4184589,231632c787ee20bece1ffe20dcf03442
-tajikistan,Tajikistan,,67.2308737,36.5710411,75.2539563,41.1450935,c37262d319e47d4965930b84465274cb
-tanzania,Tanzania,,29.2269773,-11.8612539,40.7584071,-0.8820299,51451af632e7b26e677609c3d343886b
-thailand,Thailand,,97.2438072,5.512851,105.7370925,20.5648337,ea49fa53b53a98bb3d8417b82967330b
-the_bahamas,The Bahamas,,-80.800194,20.6059846,-72.347752,27.5734551,6dcd0801a8a6e3cdbaa406de40f686dc
-the_gambia,The Gambia,,-17.1288253,12.961,-13.6977779,13.9253137,e259e4b58335a284246d8b3832e0457b
-the_netherlands,The Netherlands,,2.9394,50.7264,7.2275,53.7254,96948b532e6c3e68f9adb0fa3d327711
-togo,Togo,,-0.2439718,5.826547,1.9025,11.2395355,8fe4dcae576740224fd12766550747ad
-tokelau,Tokelau,,-172.8213672,-9.7442498,-170.8797585,-8.232863,2bf0a8a02591d4543b25ac25f7895444
-tonga,Tonga,,-179.4951979,-24.2625705,-173.4295457,-15.2655721,1bec539398afb863bc6ca52686f590b9
-trinidad_and_tobago,Trinidad and Tobago,,-62.1830559,9.7732106,-60.1895847,11.6628372,b91189e7effc2fde7da10e29dbfa65c1
-tunisia,Tunisia,,7.4219807,30.14238,11.9801133,37.8612052,23d1b4f4d3f43150ca9ffd364f5d8a41
-turkey,Turkey,,25.5212891,35.7076804,44.9176638,42.397,025978b47627cbfa0b272b3baad7823f
-turkmenistan,Turkmenistan,,52.235076,35.0355776,66.784303,42.8975571,1fd6b97b2be5fd8819d76f449b247ff1
-turks_and_caicos_islands,Turks and Caicos Islands,,-72.7799045,20.8553418,-70.764359,22.2630989,8ae9c3c3eefeef5bb8ae9a4b403b5cd3
-tuvalu,Tuvalu,,175.3417,-11.1881,180.835,-5.1524,59d58d38d8e1c9f262f93d662ff48fd4
-uganda,Uganda,,29.4727424,-1.5787899,35.100308,4.3340766,053a0651facf2467f4241b512fcb0fc4
-ukraine,Ukraine,,22.037059,44.084598,40.3275801,52.4791473,db39e9b9b6c888f3321b6e35e5fe0b35
-united_arab_emirates,United Arab Emirates,,51.3160714,22.5316214,56.7024458,26.2517219,7d23a3bcb833adb57db33794b739a80e
-united_kingdom,United Kingdom,,-14.1155169,49.574,2.1919117,61.161,06a761931707d2b9ce80ca43a0309959
-united_states_of_america,United States of America,,-125.3321,23.8991,-65.7421,49.4325,fc20217c6646bb449d07a5e235cc2f02
-uruguay,Uruguay,,-58.5948437,-35.8847311,-52.9755832,-29.9853439,e03bbd015eacaa8e0cf495fbb4db4649
-uzbekistan,Uzbekistan,,55.8985781,37.0772144,73.2397362,45.690118,80f117b2a16312e2236dad6743429310
-vanuatu,Vanuatu,,166.2355255,-20.5627424,170.549982,-12.7713776,b0d74fdc2f6f79c620e2daa8c885b297
-vatican_city,Vatican City,,12.3457442,41.8002044,12.5583555,42.0073912,7fba03c5046ce56e3eaccf978f34f103
-venezuela,Venezuela,,-73.4529631,0.547529,-59.4427078,16.0158431,8fad993c65cee6496c6bbc6fd778a569
-vietnam,Vietnam,,102.04441,8.0790665,114.4341924,23.493395,9efb5fd58768e75e9fbc21af0e9a617e
-yemen,Yemen,,41.50825,11.8084802,54.8389375,19.1,b899164cc5793e1dd8185e4d6375e8bd
-zambales,Zambales,,117.411894,14.5033824,120.549421,15.958218,3ae85343df3cd2ed770526f02fa61c2d
-zambia,Zambia,,21.896389,-18.1766964,33.8025,-8.1712821,0add79feb85cc569da670c073ffaed54
-zimbabwe,Zimbabwe,,25.1373,-22.5241095,33.1627122,-15.5097038,54ec44a7d97f938d07d5c296ea3171c5
+extract,country,city,left,bottom,right,top,id,public_download_url
+afghanistan,Afghanistan,,60.403889,29.288333,74.989862,38.5899217,cbbb9c2335db283c7c06d8fb1ae404de,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/afghanistan.mbtiles
+albania,Albania,,19.0246095,39.5448625,21.1574335,42.7611669,b75a95d9bc140e4743c2bfb19159e865,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/albania.mbtiles
+algeria,Algeria,,-8.7689089,18.868147,12.097337,37.3962055,632cf329385764453b20818c82e0b909,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/algeria.mbtiles
+andorra,Andorra,,1.3135781,42.3288238,1.8863837,42.7559357,6ea90bd00c5b0111b5c5bd77e1a01be7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/andorra.mbtiles
+angola,Angola,,11.3609793,-18.1389449,24.18212,-4.2888889,feaa4637379779b552db065719280513,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/angola.mbtiles
+anguilla,Anguilla,,-63.7391991,17.9609378,-62.6125448,18.8951194,6c49a870affe1ef1f62b19f4f84a2b27,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/anguilla.mbtiles
+argentina,Argentina,,-73.6603073,-55.285076,-53.5374514,-21.6811679,e296dd2078f67b814174b9d879f28478,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/argentina.mbtiles
+armenia,Armenia,,43.3471395,38.7404775,46.7333087,41.400712,3872c8c2d146b03bc4a162268c8f288a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/armenia.mbtiles
+australia,Australia,,112.2363,-44.3945,155.2172,-9.0882,ca9dc854082ec9252fe338a3531428b0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/australia.mbtiles
+austria,Austria,,9.4307487,46.2722761,17.260776,49.1205264,94b17bc136c66d4e9c605db83bbe4752,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/austria.mbtiles
+azerbaijan,Azerbaijan,,44.6633701,38.2929551,51.1090302,42.0502947,f8197cbf963780cbe30e08a095478dfe,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/azerbaijan.mbtiles
+bahrain,Bahrain,,50.1697989,25.435,51.0233693,26.7872444,21f8ad4f7652ab39a53373012d432c03,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bahrain.mbtiles
+bangladesh,Bangladesh,,87.9075306,20.2756582,92.7804979,26.7382534,8571f66528a5cc8fa06249abd16cb2c2,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bangladesh.mbtiles
+barbados,Barbados,,-59.9562114,12.745,-59.1147174,13.635,4fee368efa7638dd46086659e5387bc2,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/barbados.mbtiles
+anguilla,Belarus,,23.0783386,51.1575982,32.8627809,56.2722235,e9fece9152f42d45c2442ce33bcb0215,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/anguilla.mbtiles
+belgium,Belgium,,2.2889137,49.3969821,6.508097,51.6516667,73ba2411007c63113da52bcf042c0ea1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/belgium.mbtiles
+belize,Belize,,-89.3261456,15.7857286,-87.2098493,18.596001,7bb7ce890ce94e3cb27de5aab13585b9,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/belize.mbtiles
+benin,Benin,,0.676667,5.9398696,3.943343,12.5065612,a7ae4249a4909b8235092dd1fe7a71c7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/benin.mbtiles
+bermuda,Bermuda,,-65.2232221,31.9469651,-64.3109841,32.6913693,48811f6277462e1a13af4c6d568cbcb0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bermuda.mbtiles
+bhutan,Bhutan,,88.6464724,26.602016,92.2252321,28.346987,2e94d2b3fdd80b2dc7cd0c540c034fc5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bhutan.mbtiles
+bolivia,Bolivia,,-69.7450072,-23.0005473,-57.3529999,-9.5689437,f1fe9c7ba83f8b5f9a144b4faf05228e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bolivia.mbtiles
+bosnia_and_herzegovina,Bosnia and Herzegovina,,15.6287433,42.4543231,19.7217086,45.3764771,6e00379640fde1bf62b0863a0704d8d0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bosnia_and_herzegovina.mbtiles
+botswana,Botswana,,19.8986474,-27.0059668,29.475304,-17.6781369,4c701c9192b2132d2fad42952ba446f8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/botswana.mbtiles
+brazil,Brazil,,-74.0830624,-33.9689055,-28.5341163,5.3842873,84d8cb8b827869bc429f5dd3764dae27,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/brazil.mbtiles
+british_indian_ocean_territory,British Indian Ocean Territory,,70.936504,-7.7454078,72.8020157,-4.9370659,5e5fec38a67920f1d5767bce83caa125,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/british_indian_ocean_territory.mbtiles
+british_virgin_islands,British Virgin Islands,,-65.055961,18.0055311,-63.9597293,19.0503802,28252559b31a5a86e07a79f0c05e8212,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/british_virgin_islands.mbtiles
+brunei,Brunei,,113.976123,3.902508,115.4635623,5.2011857,178e4f83f73a4548f7f9c858b72528bc,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/brunei.mbtiles
+bulgaria,Bulgaria,,22.257337,41.1353929,28.9875409,44.3162214,06ae8e18c55286513cacc3f76fede4c2,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/bulgaria.mbtiles
+burkina_faso,Burkina Faso,,-5.6175099,9.293889,2.50261,15.184,4ee655cf61072a6a9392003d1f256a8a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/burkina_faso.mbtiles
+burundi,Burundi,,28.9007401,-4.5693154,30.9495759,-2.2096795,2ea8ab409db50fa70372cb55c074085a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/burundi.mbtiles
+cote_d_ivoire,Cote d'Ivoire,,-8.7017249,4.0621205,-2.3930309,10.840015,638a179e83aaeab5bfe174ad7f310929,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cote_d_ivoire.mbtiles
+cambodia,Cambodia,,102.2338282,9.3230459,107.7276788,14.7902471,8803bf3f73fa98c22351b5328e21d6e0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cambodia.mbtiles
+cameroon,Cameroon,,8.2822176,1.5546659,16.2921476,13.183333,439d152b848dae6f06cecbdba80b7814,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cameroon.mbtiles
+canada,Canada,,-141.1027499,41.5765556,-52.223198,83.4362128,3b1a0e6de4cf7badd570029589c3bf1d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/canada.mbtiles
+cape_verde,Cape Verde,,-25.6731072,14.5066229,-22.3547751,17.507117,833b6af3bf1f4c39f1a8727c61e3e532,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cape_verde.mbtiles
+cayman_islands,Cayman Islands,,-81.7313747,18.9620619,-79.4110953,20.0573759,36349b68d5ac92fcec5bd9d065594e22,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cayman_islands.mbtiles
+central_african_republic,Central African Republic,,14.3155426,2.1156553,27.5540764,11.101389,6f472c43567288a12d6e2d9a468c4889,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/central_african_republic.mbtiles
+chad,Chad,,13.37348,7.34107,24.1,23.5975,b092b2d1bf1eafed766887c4208753c9,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/chad.mbtiles
+chile,Chile,,-109.7795788,-56.8249999,-65.9734088,-17.3983997,fcfdce30b602cf202c52aca43e005357,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/chile.mbtiles
+china,China,,73.3997347,14.8082548,134.8754563,53.6608154,3936ff1cbd50d5fb805893f6fe2690ba,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/china.mbtiles
+colombia,Colombia,,-82.1000001,-4.3316871,-66.7511906,16.2219145,4a4d13c1272ffae22d6996ed3e0b5d07,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/colombia.mbtiles
+comoros,Comoros,,42.925305,-12.7209999,44.8451922,-11.0649999,973b02280422a44f1b150ef0aa3fd012,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/comoros.mbtiles
+congo-brazzaville,Congo-Brazzaville,,10.9048205,-5.2358572,18.743611,3.813056,619fc14764969e25f0dbd5642cbc747f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/congo-brazzaville.mbtiles
+congo-kinshasa,Congo-Kinshasa,,11.9374291,-13.5590349,31.4056758,5.4920026,dab4ec12995b65219c7c5e19b76d4498,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/congo-kinshasa.mbtiles
+cook_islands,Cook Islands,,-166.1856467,-22.2580699,-157.0154965,-8.6168791,72292d63526151d3c3341923f8e137d4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cook_islands.mbtiles
+costa_rica,Costa Rica,,-87.3722646,5.2329698,-82.4060207,11.3196781,4577e53fda48fc52f15b503e3ad2ca63,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/costa_rica.mbtiles
+croatia,Croatia,,13.101983,42.0748212,19.5470842,46.655029,531609e1e3bf2fb9e2101d86d68f9ea2,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/croatia.mbtiles
+cuba,Cuba,,-85.2679701,19.5275294,-73.8190003,23.5816972,70f964de7d9daa66edcc0f4d51bfb5f3,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cuba.mbtiles
+cyprus,Cyprus,,31.9227581,34.3383706,34.9553182,36.013252,70d30211c5b53dca9fb68ce3c4a3438a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/cyprus.mbtiles
+czech_republic,Czech Republic,,11.9905901,48.4518144,18.959216,51.1557036,6f8f53dc42653d5c30ce417c17f3b858,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/czech_republic.mbtiles
+denmark,Denmark,,7.6153255,54.3516667,15.6530641,58.0524297,07f6c803e2188129751e0721c11cee5c,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/denmark.mbtiles
+djibouti,Djibouti,,41.6713139,10.8149547,43.7579046,12.8923081,325ad0bad24bdc4a49148e7f61956788,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/djibouti.mbtiles
+dominica,Dominica,,-61.7869183,14.9074207,-60.9329894,15.8872222,abec77f282bc3cb16a2024dc3850cd76,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/dominica.mbtiles
+dominican_republic,Dominican Republic,,-72.1657709,17.166222,-68.0148509,20.234528,6d8c20a50571e85ab9c14faf8e641497,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/dominican_republic.mbtiles
+east_timor,East Timor,,123.9415703,-9.6642774,127.6335392,-7.9895458,26d4df7dd4e42ebc94a83da3648ecf19,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/east_timor.mbtiles
+ecuador,Ecuador,,-92.7828789,-5.1159313,-75.0925039,2.4495499,a515969bafe37f7b77f69fc47c28343c,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/ecuador.mbtiles
+egypt,Egypt,,24.606389,21.8999975,37.2153517,31.9330854,a458d10c97baa52163dd63c2dc0ee33e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/egypt.mbtiles
+el_salvador,El Salvador,,-90.2602721,12.9262117,-87.4498059,14.551667,2f3351012fc904f6d54461798c82160c,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/el_salvador.mbtiles
+equatorial_guinea,Equatorial Guinea,,5.3172943,-1.7732195,11.4598628,4.089,fc51eacc61f4bd9f5f46fa21c99dfd93,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/equatorial_guinea.mbtiles
+eritrea,Eritrea,,36.343333,12.2548219,43.4001714,18.1479356,69a456d91676a696becf8a3d0e628848,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/eritrea.mbtiles
+estonia,Estonia,,21.2826069,57.4093124,28.3100175,60.0383754,78580369fc07cf3aa6be737424ac8745,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/estonia.mbtiles
+ethiopia,Ethiopia,,32.897734,3.297448,48.0823797,14.9944684,e518dc2bab045a83993069bc5c6ca828,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/ethiopia.mbtiles
+falkland_islands,Falkland Islands,,-61.8726771,-53.2186765,-57.2662366,-50.6973006,9b9672a7906c1545afdb20667cb43672,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/falkland_islands.mbtiles
+faroe_islands,Faroe Islands,,-7.8983833,61.1880991,-6.0413261,62.5476162,9b782e2ebc60b9c387a304671d0faa1a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/faroe_islands.mbtiles
+federated_states_of_micronesia,Federated States of Micronesia,,137.1234512,0.727,163.3364054,10.391,facdb71c6c62bdd0b16c3c5947fffede,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/federated_states_of_micronesia.mbtiles
+fiji,Fiji,,-180.0999999,-21.3286516,180.1,-12.1613865,8a8866fd8cf8b74bc315655560cf2c17,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/fiji.mbtiles
+finland,Finland,,18.9832098,59.3541578,31.6867044,70.1922939,9cce61c9f858b395d07e59751c124b07,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/finland.mbtiles
+france,France,,-5.4662,41.2632,9.8679,51.2684,fae95809a97487e3f7e4dd61fff6c3c8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/france.mbtiles
+gabon,Gabon,,8.4002246,-4.201226,14.639444,2.4182171,92255deb2a472338eb1ff8331d447fe3,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/gabon.mbtiles
+georgia,Georgia,,39.7844803,40.9552922,46.8365373,43.6864294,4fbff5ec06d73ae0ebbed3c8f1aaf4b7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/georgia.mbtiles
+germany,Germany,,5.7663153,47.1701114,15.1419319,55.199161,4f387f897780692472d6a4bae73074da,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/germany.mbtiles
+ghana,Ghana,,-3.3607859,4.4392525,1.3732942,11.2748562,ed86c6c0e2b597fbc1bb941a880a4bec,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/ghana.mbtiles
+greece,Greece,,19.1477876,34.6006096,29.8296986,41.8488862,3ae8f300cfa6c02ede44c70c01e30f6c,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/greece.mbtiles
+greenland,Greenland,,-74.394555,59.4209376,-9.4914437,83.8491212,07f91ee6c6dfb1fd18fa6f9369fa2b43,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/greenland.mbtiles
+grenada,Grenada,,-62.1065867,11.686,-61.0732142,12.6966532,920869c6c2f1e163b671d3185ff03ade,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/grenada.mbtiles
+guatemala,Guatemala,,-92.4105241,13.5278662,-88.0648019,17.9166179,5f3610eb13edd380a2badf5a86ac45ae,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/guatemala.mbtiles
+guernsey,Guernsey,,-3.1204014,49.1208333,-1.9351849,50.0416066,494885a956d4d731373dfca44f4694e1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/guernsey.mbtiles
+guinea-bissau,Guinea-Bissau,,-16.9945229,10.5514215,-13.5348776,12.7862384,c996e28da9b3e7605f43146ee97ce3d8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/guinea-bissau.mbtiles
+guinea,Guinea,,-15.3470907,7.0906045,-7.5381992,12.77563,59258091107566b579ed6da68bc86999,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/guinea.mbtiles
+guyana,Guyana,,-61.5149049,1.0710017,-56.3689542,8.7038842,0bff08db9103e73f4a384e9ae52178c1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/guyana.mbtiles
+haiti,Haiti,,-74.7575356,17.8099291,-71.5221296,20.3181368,221f90228d10b6eb921e0010d6d1647a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/haiti.mbtiles
+honduras,Honduras,,-89.4519439,12.879722,-82.0816379,17.719526,b5cd4a7764cc8168e7c20c45da1bd2e5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/honduras.mbtiles
+hungary,Hungary,,16.0138867,45.637128,22.9974573,48.685257,288a2bbedc8ba417419606959c0e8c90,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/hungary.mbtiles
+iceland,Iceland,,-25.1135068,62.9859177,-12.7046161,67.453,16c2cae438435e1b55f9147db8f237e6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/iceland.mbtiles
+india,India,,68.0113787,6.4546079,97.495561,35.7745457,536b3dcd7f401e229cc3c97c11c40aa1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/india.mbtiles
+indonesia,Indonesia,,94.6717124,-11.3085668,141.1194444,6.3744496,4a1e0b69412cf44d7a567176a8b9cfff,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/indonesia.mbtiles
+iran,Iran,,43.9318908,24.7465103,63.4332704,39.8816502,c67a0abd3b0ed095b1c95286e61f7d08,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/iran.mbtiles
+iraq,Iraq,,38.6936612,28.9612087,48.9412702,37.480932,da622cca422deb0fa50b26dc5f36af0e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/iraq.mbtiles
+ireland,Ireland,,-11.1133787,51.122,-5.5582362,55.736,7a9d353e6d19f425dc7996a1e5fe3b1d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/ireland.mbtiles
+isle_of_man,Isle of Man,,-5.2707284,53.745,-3.865406,54.6534288,c73b0256496d359171b9763f60af3865,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/isle_of_man.mbtiles
+israel,Israel,,34.1674994,29.3533796,35.9950234,33.4356317,c1fddf2a0bd8e1a3743b5bb9d64820ce,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/israel.mbtiles
+italy,Italy,,6.5272658,35.1889616,18.8844746,47.1921462,596f63b9c3f5d220cfacf478785e72f4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/italy.mbtiles
+jamaica,Jamaica,,-78.6782365,16.4899443,-75.6541142,18.8256394,70eb1423fd83cbeaf934f96b0d4038b7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/jamaica.mbtiles
+japan,Japan,,122.6141754,20.1145811,154.305541,45.8112046,f7399dd0ac42fab590f18a3c0b963b8a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/japan.mbtiles
+jersey,Jersey,,-2.6591666,48.7721667,-1.7333332,49.5605,968f8f357073a0ceb127fc607e27d223,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/jersey.mbtiles
+jordan,Jordan,,34.7844372,29.083401,39.4012981,33.4751558,70a8e72ef335aee29b3a3996cbc50fa4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/jordan.mbtiles
+kazakhstan,Kazakhstan,,46.392161,40.4686476,87.4156316,55.5804002,c675a73cf36497303a4a18787eed3ceb,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/kazakhstan.mbtiles
+kenya,Kenya,,33.8098987,-4.9995203,41.999578,4.72,60031c31ac3674edfa99af02e7078ceb,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/kenya.mbtiles
+kiribati,Kiribati,,-179.1646,-7.0517,-164.1645,7.9484,d36785ec2c2ba488a6ef3ba0892263d0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/kiribati.mbtiles
+kuwait,Kuwait,,46.4526837,28.4138452,49.1046809,30.2038082,388013bd03dbd1ba80a61319ddc6298e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/kuwait.mbtiles
+kyrgyzstan,Kyrgyzstan,,69.1649523,39.0728437,80.3295793,43.3667971,7fdf6277bc7e056cf5ebbc76eba7b01b,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/kyrgyzstan.mbtiles
+laos,Laos,,99.9843247,13.8096752,107.7349989,22.602872,c4e3f7f4db26df9b87f62e557c9f406a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/laos.mbtiles
+latvia,Latvia,,20.5715407,55.5746671,28.3414904,58.1855688,c51d875cfeb989943aa9248967a59f54,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/latvia.mbtiles
+lebanon,Lebanon,,34.7825667,32.9479858,36.725,34.7923543,49629336578fd8fa0c3401591afdb8a5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/lebanon.mbtiles
+lesotho,Lesotho,,26.91123,-30.7755749,29.5557099,-28.4705972,95faa61e01957a484573b7360a252af6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/lesotho.mbtiles
+liberia,Liberia,,-11.7080763,4.0555907,-7.2673229,8.6519717,2e9b350146666562f592696e80716d42,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/liberia.mbtiles
+libya,Libya,,9.291081,19.4008138,25.4541226,33.4512055,9756ad61be4cdc6d25faf3f267303ddf,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/libya.mbtiles
+liechtenstein,Liechtenstein,,9.3716736,46.9484291,9.7357143,47.370581,ddf2a5e907bd993ee8010f60ec1f1240,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/liechtenstein.mbtiles
+lithuania,Lithuania,,20.553783,53.7967893,26.9355198,56.5504213,7f21901c994cd3119a52802724be63b7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/lithuania.mbtiles
+luxemburg,Luxemburg,,5.6357006,49.3478539,6.6312481,50.2827712,7f49433e42c9e5953857f63f7ad6de8a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/luxemburg.mbtiles
+macedonia,Macedonia,,20.3532236,40.7545226,23.134051,42.4735359,8746bcb87bfb98792a061e8dace5ade8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/macedonia.mbtiles
+madagascar,Madagascar,,42.8729705,-25.9054593,50.7983545,-11.6490749,4dc8e22e7018c9c4454e8255ad0b174f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/madagascar.mbtiles
+malawi,Malawi,,32.5703616,-17.2295216,36.0185731,-9.268326,5ecc042c0d39d3108d02f90c8536bc1e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/malawi.mbtiles
+malaysia,Malaysia,,98.8372144,0.753821,119.5390876,7.6111989,53229c1196b5794d26e778e41d23fcc3,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/malaysia.mbtiles
+maldives,Maldives,,72.2554187,-1.0074934,74.0700962,7.4106246,04deed426aabb907aa3e3f2a4daafae6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/maldives.mbtiles
+mali,Mali,,-12.3407704,10.047811,4.3673828,25.101084,f9bed9d37c0ea7ae9ef8d5e937d102c9,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mali.mbtiles
+malta,Malta,,13.8324226,35.5029696,14.9267966,36.3852706,4e1b9ae3030c0c957d03bed3f69e16b5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/malta.mbtiles
+marshall_islands,Marshall Islands,,160.494934,4.274,172.4737007,14.973,eb75c37713e799a149a2ac2103195433,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/marshall_islands.mbtiles
+mauritania,Mauritania,,-17.1684993,14.6206601,-4.7333343,27.414942,c791dcd0bc9c2b5355337debe30ba269,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mauritania.mbtiles
+mauritius,Mauritius,,56.2825151,-20.8249999,63.8151319,-10.0379999,1bbf58a7c44aa9e62ea96509afc3826d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mauritius.mbtiles
+mexico,Mexico,,-118.6991899,14.2886243,-86.3932659,32.8186553,e814dbebce2c10a212cf232ae23b9945,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mexico.mbtiles
+moldova,Moldova,,26.5162823,45.3667022,30.2635137,48.5918695,fe4764e7aa99df781c3e39d170863f6c,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/moldova.mbtiles
+monaco,Monaco,,7.3090279,43.416333,7.633167,43.8519311,67a0c43818c5ce96d122c7780a33a72b,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/monaco.mbtiles
+mongolia,Mongolia,,87.63762,41.4804176,120.031949,52.2496,5827797f99734948a1ed0d8d84631438,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mongolia.mbtiles
+montenegro,Montenegro,,18.3334249,41.6495999,20.4638002,43.658844,e8154f6a3c5caf3be62bd1fe71658e42,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/montenegro.mbtiles
+montserrat,Montserrat,,-62.5506669,16.375,-61.8353817,17.1152978,79725f58a5b5ae9926627a862e4cc7dd,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/montserrat.mbtiles
+morocco,Morocco,,-17.4479238,20.5144392,-0.8984289,36.1027875,7bfa362e286611bf59ebaae4380fdc62,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/morocco.mbtiles
+mozambique,Mozambique,,30.1131759,-27.0209426,41.1545908,-10.2252148,2d33545c5dd241fa01e075ff4dff1c84,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/mozambique.mbtiles
+myanmar,Myanmar,,92.0719423,9.4375,101.2700796,28.647835,3bc9b29ce1b4c8a982c9e0a5f6815407,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/myanmar.mbtiles
+namibia,Namibia,,11.4280384,-29.0694499,25.3617476,-16.8634854,c7e88c3fb906349bffc0cba19b2e3c5d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/namibia.mbtiles
+nauru,Nauru,,166.6099864,-0.8529999,167.2597301,-0.2029999,c52be73877ae6cf8b55f2f88776c3d70,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/nauru.mbtiles
+nepal,Nepal,,79.9586109,26.2477172,88.3015257,30.546945,2e721361cf1d4b3475d6ecfd0e03542f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/nepal.mbtiles
+new_zealand,New Zealand,,165.8236,-48.4206,179.5842,-33.5349,02eceff9fb87d99be45e58ac6f246dd3,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/new_zealand.mbtiles
+nicaragua,Nicaragua,,-87.933972,10.6084923,-82.5227022,15.1331183,5140987bc271c579eec55953725fcea6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/nicaragua.mbtiles
+niger,Niger,,0.0689653,11.593756,16.096667,23.617178,2f36d1b29fec6c2e0819984be467b2e6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/niger.mbtiles
+nigeria,Nigeria,,2.576932,3.9690959,14.777982,13.985645,096e9b76284d7aaa7f4e929055e63db8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/nigeria.mbtiles
+niue,Niue,,-170.2595028,-19.4548664,-169.4647228,-18.6534558,0632f96aec1dac8d4076552a978a889f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/niue.mbtiles
+north_korea,North Korea,,123.9913902,37.5279512,131.024647,43.1089642,997ae1617ef956f06dfe79fc44b3d5fb,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/north_korea.mbtiles
+norway,Norway,,-9.7848145,-54.7539999,34.7891253,81.128076,348b52e025b574d3b239d5774e025cc9,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/norway.mbtiles
+oman,Oman,,51.9,16.3649608,60.154577,26.8026737,a2d0b2c19415e820da9ff1573dec1126,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/oman.mbtiles
+pakistan,Pakistan,,60.766944,23.4393916,77.2203914,37.184107,bfe61459cea44481476ddfb272a43e2e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/pakistan.mbtiles
+palau,Palau,,130.9685462,2.648,134.8714735,8.322,7cbe6d9bdcc0f048f320524566e9bfe8,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/palau.mbtiles
+palestine,Palestine,,33.9689732,31.1201289,35.6734946,32.6521479,a6534db7cecde7b044ba5f0f9496fb2a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/palestine.mbtiles
+panama,Panama,,-83.1517244,6.9338679,-77.0393778,9.9701757,936642a4c32c6321b2cbe43ba6461fce,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/panama.mbtiles
+papua_new_guinea,Papua New Guinea,,140.7416553,-11.9555738,159.792724,-0.4573575,4c4a80cc84261e1d6e33e8b72f168db5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/papua_new_guinea.mbtiles
+paraguay,Paraguay,,-62.7442035,-27.7069156,-54.1579999,-19.1876463,93675304ada6c2c7ce340c9c38fe5aa6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/paraguay.mbtiles
+peru,Peru,,-84.7732789,-20.2984471,-68.5519905,0.0607183,1305e8f78b3255979498a5cbe35586f4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/peru.mbtiles
+philippines,Philippines,,113.9783252,4.1158064,126.9072562,21.4217806,9b6ee7922c7c8d700adf8520a0ca6024,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/philippines.mbtiles
+pitcairn_islands,Pitcairn Islands,,-130.9049861,-25.2306735,-124.6175339,-23.7655768,c15451a6d54680e9d479f4947e4aa748,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/pitcairn_islands.mbtiles
+poland,Poland,,14.0229707,48.9020468,24.245783,55.1336963,bf51d3d0aecbdecb6b3f1fd4522f210f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/poland.mbtiles
+portugal,Portugal,,-31.6575302,29.7288021,-6.0891591,42.2543112,6021ee49ab4302c4448ee9504c60cc84,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/portugal.mbtiles
+qatar,Qatar,,50.4675,24.3707534,52.738011,26.4830212,e653ce3a48272d340b602c2b6aed3322,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/qatar.mbtiles
+taiwan,Taiwan,,114.2521088,10.2706406,122.397,26.5015754,568c908fee08c6879f4a0547aa59a988,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/taiwan.mbtiles
+republic_of_kosovo,Republic of Kosovo,,19.9185549,41.7554981,21.8995285,43.3691934,9049df22dcf01ebcb43c97d0f46b9269,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/republic_of_kosovo.mbtiles
+romania,Romania,,20.1619773,43.518682,30.1454257,48.3653964,25730d8ba832bbe665b53f1cc3cc43a1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/romania.mbtiles
+russian_federation,Russian Federation,,-180.0999999,41.0858711,180.1,82.1586232,00c9ea8843fe6511eb2660b58492e820,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/russian_federation.mbtiles
+rwanda,Rwanda,,28.7617546,-2.9389803,30.9990738,-0.9474509,cc96f9284543e5c5cc9e68b882b4b5c6,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/rwanda.mbtiles
+sao_tome_and_principe,Sao Tome and Principe,,6.160642,-0.3135136,7.7704783,2.0257601,04e84ba00986fccaedd1470b99a95dbc,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sao_tome_and_principe.mbtiles
+sahrawi_arab_democratic_republic,Sahrawi Arab Democratic Republic,,-15.1405655,21.2370952,-8.5663889,27.7666834,92f623bb1e4e11dd12c2208021a46194,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sahrawi_arab_democratic_republic.mbtiles
+saint_helena_ascension_and_tristan_da_cunha,Saint Helena/Ascension and Tristan da Cunha,,-5.79,-16.04,-5.63,-15.9,7cb8d08c4436e59e1341e780e73b7b09,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/saint_helena_ascension_and_tristan_da_cunha.mbtiles
+saint_kitts_and_nevis,Saint Kitts and Nevis,,-63.1511289,16.795,-62.2303518,17.7158146,4820880cc936812a15480a5ad2ac191e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/saint_kitts_and_nevis.mbtiles
+saint_lucia,Saint Lucia,,-61.3853866,13.408,-60.5669362,14.3725,15b2ff140f486c688984c7ded3855554,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/saint_lucia.mbtiles
+saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines,,-61.765747,12.4166548,-60.8094145,13.683,efcadb9025692b9eb3141ad451bea9a5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/saint_vincent_and_the_grenadines.mbtiles
+samoa,Samoa,,-173.1091863,-14.3770915,-171.0929228,-13.1381891,c2ec504e0507f01e3b636b7db7e7823d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/samoa.mbtiles
+san_marino,San Marino,,12.3033246,43.7937002,12.6160665,44.092093,e93c81c766c0702e814d92ff3e1f6f7f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/san_marino.mbtiles
+saudi_arabia,Saudi Arabia,,34.3571718,16.19,55.7666985,32.3305891,a57fd9515e075ed2bc98c4599d4d2571,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/saudi_arabia.mbtiles
+senegal,Senegal,,-17.8862418,12.1372838,-11.2458995,16.7919959,c12392579df0b468ed03b222e23695db,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/senegal.mbtiles
+serbia,Serbia,,18.71403,42.1357356,23.106309,46.2900608,e781325f115508dcaea69dce616768dd,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/serbia.mbtiles
+seychelles,Seychelles,,45.8988759,-10.5649257,56.5979396,-3.4119999,df438de71d6880ebc88af3bfee8cf19d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/seychelles.mbtiles
+sierra_leone,Sierra Leone,,-13.6003388,6.655,-10.1716829,10.1000481,0a63566356f55284b2026ef670c228b7,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sierra_leone.mbtiles
+singapore,Singapore,,103.4666667,1.0303611,104.6706735,1.6130449,5eccb1335e09bde54884deaac835637e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/singapore.mbtiles
+slovakia,Slovakia,,16.7331891,47.6314286,22.6657096,49.7138162,1585f177be30ad99d91593ae1aed575a,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/slovakia.mbtiles
+slovenia,Slovenia,,13.2754696,45.3214242,16.6967702,46.9766816,5ffed2a3af44826a2d2f21cc3489bbbb,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/slovenia.mbtiles
+solomon_islands,Solomon Islands,,155.2190556,-13.3424297,170.4964667,-4.7108499,d05304e35e7769b6f2bc8325c5e0bc17,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/solomon_islands.mbtiles
+somalia,Somalia,,40.8864985,-1.9031968,51.7177696,12.2889121,83034e9d3c23a438bd766751489c21b0,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/somalia.mbtiles
+south_africa,South Africa,,16.2335213,-47.2788334,38.3898954,-22.02503,e1bddfb148ae251bdb586e162336a670,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/south_africa.mbtiles
+south_georgia_and_the_south_sandwich_islands,South Georgia and the South Sandwich Islands,,-42.2349052,-59.7839999,-25.7468302,-53.3531685,459c2b475467b96c2a4f3b2c0d4342cd,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/south_georgia_and_the_south_sandwich_islands.mbtiles
+south_korea,South Korea,,124.254847,32.77788,132.2483256,38.7234602,3f52888a8fcea1f9f3591d815ceea4e1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/south_korea.mbtiles
+south_sudan,South Sudan,,23.347778,3.38898,36.048997,12.336389,fa35cdb256d5d8eec45573649b89a640,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/south_sudan.mbtiles
+spain,Spain,,-9.9123,35.892,4.5919,43.9934,d01080e779e1af31c3d92506c0935e67,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/spain.mbtiles
+sri_lanka,Sri Lanka,,79.2741141,5.619,82.1810141,10.135,6bf678f3b9e46d576da2a3224b594aee,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sri_lanka.mbtiles
+sudan,Sudan,,21.7145046,9.247221,39.1576252,22.324918,23d43bfdcbb232c53a8490ba5251bc92,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sudan.mbtiles
+suriname,Suriname,,-58.1708329,1.7312802,-53.7433357,6.325,c55769bb6b62bef5b8a723e201677cbd,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/suriname.mbtiles
+swaziland,Swaziland,,30.6908,-27.41752,32.2349923,-25.6187599,18cd67884fabd88951e1d08a9bca13f1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/swaziland.mbtiles
+sweden,Sweden,,10.4920778,55.0331192,24.2776819,69.1599699,a8e70d48bef979c80b7196981b1a1a23,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/sweden.mbtiles
+switzerland,Switzerland,,5.8559113,45.717995,10.5922941,47.9084648,553ad2ff4e441b6f69934fcc15f63d6e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/switzerland.mbtiles
+syria,Syria,,35.3714427,32.211354,42.4745687,37.4184589,231632c787ee20bece1ffe20dcf03442,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/syria.mbtiles
+tajikistan,Tajikistan,,67.2308737,36.5710411,75.2539563,41.1450935,c37262d319e47d4965930b84465274cb,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tajikistan.mbtiles
+tanzania,Tanzania,,29.2269773,-11.8612539,40.7584071,-0.8820299,51451af632e7b26e677609c3d343886b,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tanzania.mbtiles
+thailand,Thailand,,97.2438072,5.512851,105.7370925,20.5648337,ea49fa53b53a98bb3d8417b82967330b,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/thailand.mbtiles
+the_bahamas,The Bahamas,,-80.800194,20.6059846,-72.347752,27.5734551,6dcd0801a8a6e3cdbaa406de40f686dc,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/the_bahamas.mbtiles
+the_gambia,The Gambia,,-17.1288253,12.961,-13.6977779,13.9253137,e259e4b58335a284246d8b3832e0457b,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/the_gambia.mbtiles
+the_netherlands,The Netherlands,,2.9394,50.7264,7.2275,53.7254,96948b532e6c3e68f9adb0fa3d327711,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/the_netherlands.mbtiles
+togo,Togo,,-0.2439718,5.826547,1.9025,11.2395355,8fe4dcae576740224fd12766550747ad,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/togo.mbtiles
+tokelau,Tokelau,,-172.8213672,-9.7442498,-170.8797585,-8.232863,2bf0a8a02591d4543b25ac25f7895444,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tokelau.mbtiles
+tonga,Tonga,,-179.4951979,-24.2625705,-173.4295457,-15.2655721,1bec539398afb863bc6ca52686f590b9,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tonga.mbtiles
+trinidad_and_tobago,Trinidad and Tobago,,-62.1830559,9.7732106,-60.1895847,11.6628372,b91189e7effc2fde7da10e29dbfa65c1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/trinidad_and_tobago.mbtiles
+tunisia,Tunisia,,7.4219807,30.14238,11.9801133,37.8612052,23d1b4f4d3f43150ca9ffd364f5d8a41,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tunisia.mbtiles
+turkey,Turkey,,25.5212891,35.7076804,44.9176638,42.397,025978b47627cbfa0b272b3baad7823f,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/turkey.mbtiles
+turkmenistan,Turkmenistan,,52.235076,35.0355776,66.784303,42.8975571,1fd6b97b2be5fd8819d76f449b247ff1,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/turkmenistan.mbtiles
+turks_and_caicos_islands,Turks and Caicos Islands,,-72.7799045,20.8553418,-70.764359,22.2630989,8ae9c3c3eefeef5bb8ae9a4b403b5cd3,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/turks_and_caicos_islands.mbtiles
+tuvalu,Tuvalu,,175.3417,-11.1881,180.835,-5.1524,59d58d38d8e1c9f262f93d662ff48fd4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/tuvalu.mbtiles
+uganda,Uganda,,29.4727424,-1.5787899,35.100308,4.3340766,053a0651facf2467f4241b512fcb0fc4,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/uganda.mbtiles
+ukraine,Ukraine,,22.037059,44.084598,40.3275801,52.4791473,db39e9b9b6c888f3321b6e35e5fe0b35,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/ukraine.mbtiles
+united_arab_emirates,United Arab Emirates,,51.3160714,22.5316214,56.7024458,26.2517219,7d23a3bcb833adb57db33794b739a80e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/united_arab_emirates.mbtiles
+united_kingdom,United Kingdom,,-14.1155169,49.574,2.1919117,61.161,06a761931707d2b9ce80ca43a0309959,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/united_kingdom.mbtiles
+united_states_of_america,United States of America,,-125.3321,23.8991,-65.7421,49.4325,fc20217c6646bb449d07a5e235cc2f02,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/united_states_of_america.mbtiles
+uruguay,Uruguay,,-58.5948437,-35.8847311,-52.9755832,-29.9853439,e03bbd015eacaa8e0cf495fbb4db4649,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/uruguay.mbtiles
+uzbekistan,Uzbekistan,,55.8985781,37.0772144,73.2397362,45.690118,80f117b2a16312e2236dad6743429310,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/uzbekistan.mbtiles
+vanuatu,Vanuatu,,166.2355255,-20.5627424,170.549982,-12.7713776,b0d74fdc2f6f79c620e2daa8c885b297,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/vanuatu.mbtiles
+vatican_city,Vatican City,,12.3457442,41.8002044,12.5583555,42.0073912,7fba03c5046ce56e3eaccf978f34f103,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/vatican_city.mbtiles
+venezuela,Venezuela,,-73.4529631,0.547529,-59.4427078,16.0158431,8fad993c65cee6496c6bbc6fd778a569,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/venezuela.mbtiles
+vietnam,Vietnam,,102.04441,8.0790665,114.4341924,23.493395,9efb5fd58768e75e9fbc21af0e9a617e,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/vietnam.mbtiles
+yemen,Yemen,,41.50825,11.8084802,54.8389375,19.1,b899164cc5793e1dd8185e4d6375e8bd,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/yemen.mbtiles
+zambales,Zambales,,117.411894,14.5033824,120.549421,15.958218,3ae85343df3cd2ed770526f02fa61c2d,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/zambales.mbtiles
+zambia,Zambia,,21.896389,-18.1766964,33.8025,-8.1712821,0add79feb85cc569da670c073ffaed54,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/zambia.mbtiles
+zimbabwe,Zimbabwe,,25.1373,-22.5241095,33.1627122,-15.5097038,54ec44a7d97f938d07d5c296ea3171c5,https://openmaptiles.os.zhdk.cloud.switch.ch/v3.3/extracts/zimbabwe.mbtiles
