@@ -2,8 +2,7 @@
 set -o errexit
 set -o pipefail
 
-readonly CITIES_TSV=${CITIES_TSV:-"city_extracts.csv"}
-readonly COUNTRIES_TSV=${COUNTRIES_TSV:-"country_extracts.csv"}
+readonly CSV_FILE=${CSV_FILE:-"extracts.csv"}
 readonly PLANET_MBTILES=${PLANET_MBTILES:-"planet.mbtiles"}
 readonly EXTRACT_DIR=$(dirname "$PLANET_MBTILES")
 readonly PATCH_SRC="$EXTRACT_DIR/planet_z0-z5.mbtiles"
@@ -26,9 +25,7 @@ function main() {
     python -u create_extracts.py zoom-level "$PLANET_MBTILES" \
         --max-zoom=8 --target-dir="$EXTRACT_DIR"
 
-    python -u create_extracts.py bbox "$PLANET_MBTILES" "$CITIES_TSV" \
-        --patch-from="$PATCH_SRC" --target-dir="$EXTRACT_DIR" $upload_flag
-    python -u create_extracts.py bbox "$PLANET_MBTILES" "$COUNTRIES_TSV" \
+    python -u create_extracts.py bbox "$PLANET_MBTILES" "$CSV_FILE" \
         --patch-from="$PATCH_SRC" --target-dir="$EXTRACT_DIR" $upload_flag
 }
 

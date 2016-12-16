@@ -1,9 +1,7 @@
-# Create MBTiles Extracts
+# MBTiles Extracts from OpenMapTiles
 
 The **create-extracts** component is responsible for cutting out specific country and
-city extracts as specified in the CSV files from a planet scale MBTiles file.
-
-![Flow Diagram](create-extracts-flow-diagram.png)
+city extracts as specified in the `extracts.csv` CSV file from a planet scale MBTiles file.
 
 It is made especially for cutting out vector tiles from the latest OSM2VectorTiles planet dump but can be adapted
 to support other MBTiles formats.
@@ -12,7 +10,7 @@ to support other MBTiles formats.
 
 ### Submit new Extract
 
-You can modify the `city_extracts.csv` and `country_extracts.csv` directly in GitHub and create a PR.
+You can modify the `extracts.csv` directly in GitHub and create a PR.
 
 ### Download Planet MBTiles
 
@@ -28,7 +26,7 @@ You can use the `create_extracts.py` Python script yourself to generate an extra
 
 ```bash
 # Create extracts limited by a bounding box specified in the CSV file
-python create_extracts.py bbox planet.mbtiles city_extracts.csv
+python create_extracts.py bbox planet.mbtiles extracts.csv
 ```
 
 ### Docker
