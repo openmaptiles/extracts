@@ -16,15 +16,13 @@ RUN npm install -g \
 RUN apt-get update && apt-get install -y --no-install-recommends \
         sqlite3 \
         bc \
-        s3cmd \
         python \
         python-pip \
     && rm -rf /var/lib/apt/lists/
 
 VOLUME /export
 ENV PLANET_MBTILES=/export/planet.mbtiles \
-    PATCH_MBTILES=/export/planet_z0-z5.mbtiles \
-    S3_CONFIG_FILE=/usr/src/app/.s3cfg
+    PATCH_MBTILES=/export/planet_z0-z5.mbtiles
 
 COPY requirements.txt /usr/src/app/requirements.txt
 RUN pip install -r requirements.txt
